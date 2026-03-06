@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\FILES\\ECU\\C\u002B\u002B Unit\\Pramod_10725000\\Pramod_10725000\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AABC78C-6FC2-477C-9604-B7AE403D0B2F}|Pramod_10725000\\Pramod_10725000.vcxproj|C:\\FILES\\ECU\\C\u002B\u002B Unit\\Pramod_10725000\\Pramod_10725000\\Pramod_10725000\\Pramod_10725000.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3AABC78C-6FC2-477C-9604-B7AE403D0B2F}|Pramod_10725000\\Pramod_10725000.vcxproj|solutionrelative:Pramod_10725000\\Pramod_10725000.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pramod_10725000.cpp",
+              "DocumentMoniker": "C:\\FILES\\ECU\\C\u002B\u002B Unit\\Pramod_10725000\\Pramod_10725000\\Pramod_10725000\\Pramod_10725000.cpp",
+              "RelativeDocumentMoniker": "Pramod_10725000\\Pramod_10725000.cpp",
+              "ToolTip": "C:\\FILES\\ECU\\C\u002B\u002B Unit\\Pramod_10725000\\Pramod_10725000\\Pramod_10725000\\Pramod_10725000.cpp",
+              "RelativeToolTip": "Pramod_10725000\\Pramod_10725000.cpp",
+              "ViewState": "AgIAAGIBAAAAAAAAAAAIwIIBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-10T19:44:15.563Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
